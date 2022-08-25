@@ -11,6 +11,7 @@ Folders
 
 Relevant Links:
 - Segmentation Methodology: 
-  - https://8451-my.sharepoint.com/:w:/p/l528617/EWwRiLvwr8VOuik4y7DZ98wBfgdaa4vnwEvAmvvMpBiuMw?e=IFJwki
-- How to Run Segmentation: 
   - https://8451-my.sharepoint.com/:w:/p/l528617/Ecy0Hr7MpjBInHZaXQ5zJ0ABt9FbL7FMEOjwL-NeoppiwA?e=NS7XzK
+- How to Run Segmentation: 
+  - https://8451-my.sharepoint.com/:w:/p/l528617/EWwRiLvwr8VOuik4y7DZ98wBfgdaa4vnwEvAmvvMpBiuMw?e=IFJwki
+
